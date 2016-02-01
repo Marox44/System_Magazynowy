@@ -1,0 +1,10 @@
+F:\GIT\System_Magazynowy\Aplikacja magazynowa\bin\Debug\Aplikacja magazynowa.exe.config
+F:\GIT\System_Magazynowy\Aplikacja magazynowa\bin\Debug\Aplikacja magazynowa.exe
+F:\GIT\System_Magazynowy\Aplikacja magazynowa\bin\Debug\Aplikacja magazynowa.pdb
+F:\GIT\System_Magazynowy\Aplikacja magazynowa\obj\Debug\Aplikacja magazynowa.csprojResolveAssemblyReference.cache
+F:\GIT\System_Magazynowy\Aplikacja magazynowa\obj\Debug\Aplikacja_magazynowa.Form1.resources
+F:\GIT\System_Magazynowy\Aplikacja magazynowa\obj\Debug\Aplikacja_magazynowa.Properties.Resources.resources
+F:\GIT\System_Magazynowy\Aplikacja magazynowa\obj\Debug\Aplikacja magazynowa.csproj.GenerateResource.Cache
+F:\GIT\System_Magazynowy\Aplikacja magazynowa\obj\Debug\Aplikacja magazynowa.exe
+F:\GIT\System_Magazynowy\Aplikacja magazynowa\obj\Debug\Aplikacja magazynowa.pdb
+F:\GIT\System_Magazynowy\Aplikacja magazynowa\bin\Debug\MySql.Data.dll

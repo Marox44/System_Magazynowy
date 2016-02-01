@@ -1,0 +1,62 @@
+﻿.input_filter {
+    margin-top: 5px;
+    height: 24px;
+}
+
+.filter_label {
+    position: relative;
+    top: 25px;
+}
+
+    .filter_label .btns_filter {
+        display: block;
+        margin: 0 auto;
+    }
+
+#GridView1,
+#GridView1 th,
+#GridView_order,
+#GridView_order th {
+    text-align: center;
+}
+
+    #GridView1 th input,
+    #GridView_order th input {
+        /*width:50%;
+        margin-left: auto;
+        margin-right:auto;*/
+    }
+
+
+
+    #GridView1 .row_input,
+    #GridView_order .row_input {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+.text_bold {
+    font-weight: bold;
+}
+
+.order_amount {
+    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.row_input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .row_input > span {
+        flex: 0 0 auto;
+    }
+
+    .row_input > input {
+        flex: 0 0 auto;
+        margin-left: 5px;
+    }
